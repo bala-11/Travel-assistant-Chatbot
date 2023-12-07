@@ -1,0 +1,1142 @@
+[
+    {
+        "_id": "btl-00582c5a-444a-59d0-a84b-53e4ba5bd85a",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "'Tamil' language is added to the Virtual Assistant with NLU language as 'Tamil'.Input Translation is not enabled.Response Translation is not enabled.",
+        "createdOn": "2023-12-04T09:23:35.532Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-022ec8af-955a-54b0-a4f6-664f97d61b45",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Bot published with comment ‘v1.1’. Publish request includes 1 tasks,Knowledge Collection,Small Talk,languages,NL Model,NL Settings,BotKit,Agent Transfer,Web / Mobile SDK settings,Event Handlers,General Settings,Bot Variables,PII Settings,Voice call properties,Hold & Resume Settings,Custom Script and Advanced Settings ",
+        "createdOn": "2023-12-04T09:54:24.032Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-0618c235-9771-55db-9ab9-721689dcbfed",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Saved BOT",
+        "createdOn": "2023-12-04T09:23:33.137Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-12ddadd7-b521-5dec-a70c-492602175ccf",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "wg-dcdda8e8-7fe1-5ec2-a3cc-109e0b1223de",
+        "resourceType": "customDashboards",
+        "message": "A new widget Language Widget is added to the Custom Dashboard Date wise response",
+        "createdOn": "2023-12-04T09:23:34.228Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-12def85b-2321-5217-bcc2-d90498a769a0",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "frm-713be66e-a447-5794-aad2-dcb4412eb2b0",
+        "resourceType": "Form",
+        "message": "New Digital Form 'BookCab' is created",
+        "createdOn": "2023-12-04T09:23:33.631Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-14cd333c-9c55-595b-b544-92d0ad5d1ab4",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training initiated in 'ta'",
+        "createdOn": "2023-12-04T09:23:36.773Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-157fcdd0-fd5e-5ffa-ac8f-03f6808c3a92",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "sm-84c2d661-b9c7-58c0-a24d-37045eb0c452",
+        "resourceType": "SmallTalk",
+        "message": "small talk published successfully in 'en'",
+        "createdOn": "2023-12-04T09:54:24.499Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-1a642db9-93c3-5c6b-bcb5-f30182ed210b",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:47:44.674Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-21a4db71-4d40-5af3-bd56-f8030a94d400",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-7ed98c19-4d2d-5ec2-af96-84fb4ed12ca3",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Fetch Booking Details",
+        "createdOn": "2023-12-04T09:23:34.267Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-28d3102e-c93a-5102-92c9-e658d609cc7e",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Sentence",
+        "message": "Training is initiated in 'ta'",
+        "createdOn": "2023-12-04T09:54:25.784Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-2af54769-756b-58d7-95d4-f61c4e8496ca",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-713025b9-f347-5eba-9fe0-ca826ab8b18e",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Modify Booking",
+        "createdOn": "2023-12-04T09:23:34.222Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-34562b80-21ba-5269-84c3-0b7bfa84cae0",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-7ed98c19-4d2d-5ec2-af96-84fb4ed12ca3",
+        "resourceType": "dialog",
+        "message": "Upgraded dialog task Fetch Booking Details",
+        "createdOn": "2023-12-04T09:52:50.873Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-3eb639ac-6edc-5776-9520-6f47d8b77fd3",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "The 'Tamil' language is enabled for interactions",
+        "createdOn": "2023-12-04T09:23:35.530Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-41c28951-788d-58d8-8f7f-deee8be8cc2d",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "656d9a96a57a9b3672bb540c",
+        "resourceType": "KnowledgeTask",
+        "message": "Created KnowledgeTask Travel assistant",
+        "createdOn": "2023-12-04T09:23:34.468Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-46bc8add-4ec6-579a-af87-01cb617dceec",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-df3a3c82-3588-5467-9e1b-e298a7595e07",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Raise issue",
+        "createdOn": "2023-12-04T09:23:34.280Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-50174284-e818-52e9-8b84-53793100dc84",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "ThresholdAndConfigurations",
+        "message": "FM Threshold value is updated from 0% to undefined% for the 'English' language",
+        "createdOn": "2023-12-04T09:23:36.304Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-527622b3-3d13-5fb0-be49-0ec8878e9a69",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:23:37.318Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-61dfe692-aa5e-568e-af15-4dfcd07558e6",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-5ab7de1b-c649-5eff-a748-9760f277712d",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Fallback Task",
+        "createdOn": "2023-12-04T09:23:34.254Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-63706c41-c64c-5333-8b3d-ea8bf113c856",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "bir-fff1e955-948e-5228-8bbe-882c8159dd8d",
+        "resourceType": "Import",
+        "message": "Bot is updated using Full Import option",
+        "createdOn": "2023-12-04T09:23:36.488Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-68f62ff0-8aeb-5fe2-9fac-3ca4831d9f73",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "New version 'Published Version: December 4,2023 9:47:42' is created",
+        "createdOn": "2023-12-04T09:47:43.871Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-6a9f0fd4-ca3d-552a-afd7-bfe9de940635",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "sm-84c2d661-b9c7-58c0-a24d-37045eb0c452",
+        "resourceType": "SmallTalk",
+        "message": "small talk published successfully in 'en'",
+        "createdOn": "2023-12-04T09:47:38.460Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-6f369b3a-bdfc-54f7-9533-dac76b421ff5",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Sentence",
+        "message": "Training is initiated in 'en'",
+        "createdOn": "2023-12-04T09:47:42.563Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-7356df49-7046-5540-a172-b9d36f607ad4",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "da-f2120670-dcb2-5c64-8474-5f1295e6feaf",
+        "resourceType": "customDashboards",
+        "message": "A new Date wise response is added to the custom dashboard",
+        "createdOn": "2023-12-04T09:23:33.515Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-75ad1dac-08e9-514c-9d3c-3659a4afa078",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "WebClient URL is Enabled for Web/Mobile Client Channel",
+        "createdOn": "2023-12-04T09:46:22.229Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-81c92e3a-5a51-5ec6-a846-0ee6087a2a76",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training initiated in 'ta'",
+        "createdOn": "2023-12-04T09:23:36.804Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-856f2ac2-f59a-5709-8808-727e2fc2419c",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "wg-adcf1a6d-af64-5a79-86c0-b1e63add1e69",
+        "resourceType": "customDashboards",
+        "message": "A new widget User/Bot response is added to the Custom Dashboard Date wise response",
+        "createdOn": "2023-12-04T09:23:33.683Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-85a7cbd8-ffd1-5d2a-98f0-79621d43ea64",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Web/Mobile Client Channel is enabled",
+        "createdOn": "2023-12-04T09:46:22.736Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-9eca6a40-0a82-5953-bf9e-67c1e441aa13",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "ns-4a1f1677-fbe3-5660-9dce-95f8245ffa7c",
+        "resourceType": "namespace",
+        "message": "Namespace default added successfully",
+        "createdOn": "2023-12-04T09:23:33.382Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-9f223c68-b2b1-5364-bcb5-f23102f6b01b",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "webhook - api Channel is updated",
+        "createdOn": "2023-12-04T09:47:17.321Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a31a930b-09e9-57d6-8e5f-47962fe61f99",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "wg-29628ab5-3d80-536a-acdc-ed11ce4627cc",
+        "resourceType": "customDashboards",
+        "message": "A new widget Task and Faq widget is added to the Custom Dashboard Date wise response",
+        "createdOn": "2023-12-04T09:23:34.373Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a5c065c7-ce9a-52d7-8b26-6fd2372c79a8",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-26298060-cd84-57b2-aaf3-a590769c32b3",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Feedback survey LD",
+        "createdOn": "2023-12-04T09:23:34.263Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a65caf72-ecfe-51f5-be66-74836e26c304",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Trained ML after BOT approval",
+        "createdOn": "2023-12-04T09:47:42.573Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a727e482-d131-5e63-85ba-5c2bdd28e921",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "ThresholdAndConfigurations",
+        "message": "Use of Parts of Speech is disabled for Knowledge Graph lemmatization",
+        "createdOn": "2023-12-04T09:23:36.170Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a97024ef-0251-5d68-bab7-66e2da627c1d",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-aacd6eed-cb48-5408-95b5-74bb50fb3342",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Book cab",
+        "createdOn": "2023-12-04T09:23:34.251Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-a9924ec3-5903-5aba-9280-0c7a3abbcb21",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-8285596b-8520-53bf-a69d-471735e2c914",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Book Flight",
+        "createdOn": "2023-12-04T09:23:34.167Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-ab5aa997-77cd-5957-b5a4-4dd85052e8aa",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Virtual Assistant created using English language with NLU language as English.Input Translation is not enabled.Response Translation is not enabled.",
+        "createdOn": "2023-12-04T09:23:33.140Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-aced1382-f3dd-556d-9647-1065fb7a9432",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Sentence",
+        "message": "Training is initiated in 'en'",
+        "createdOn": "2023-12-04T09:54:25.724Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-af580a25-02ad-58b8-a380-4bc4481e7bb5",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:47:44.506Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-b47e20f0-505e-5094-8c71-17aa2ac90b50",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "sm-84c2d661-b9c7-58c0-a24d-37045eb0c452",
+        "resourceType": "SmallTalk",
+        "message": "small talk published successfully in 'ta'",
+        "createdOn": "2023-12-04T09:47:38.772Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-bd4ec62f-73de-5159-a15c-b23f3846620f",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Bot published with comment ‘v1’. Publish request includes 10 tasks,Knowledge Collection,Small Talk,languages,NL Model,NL Settings,Channels(rtm,webhook - api),BotKit,Agent Transfer,Web / Mobile SDK settings,Event Handlers,General Settings,Bot Variables,PII Settings,Voice call properties,Hold & Resume Settings,Custom Script and Advanced Settings ",
+        "createdOn": "2023-12-04T09:47:37.349Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-c05a64ef-5a6b-5d93-826a-95ceb0a25d70",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "New version 'Published Version: December 4,2023 9:54:25' is created",
+        "createdOn": "2023-12-04T09:54:27.108Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-c7bf3f6d-e097-5e0a-8843-8122d0dcb06b",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:54:29.708Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-cf00cb6e-1f67-5d2f-bca5-694ae5137ae0",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:23:39.366Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-d91306f2-ed40-5f7d-a7b9-0245606fd454",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "Trained ML after BOT approval",
+        "createdOn": "2023-12-04T09:54:25.802Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-d936ff0c-02d2-5f6d-8a41-4a79964924e9",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-7ca9f944-d2b3-5a82-a3f0-297315051349",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Welcome Task",
+        "createdOn": "2023-12-04T09:23:34.258Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-daae9eae-e8f7-57db-a0c5-7fb5fbd60728",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-b486448c-0444-5d77-89c0-0829f505d351",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Feedback survey CSAT",
+        "createdOn": "2023-12-04T09:23:34.225Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-dc926509-88e9-5dc5-bea0-f45f5ec746df",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "sm-84c2d661-b9c7-58c0-a24d-37045eb0c452",
+        "resourceType": "SmallTalk",
+        "message": "small talk published successfully in 'ta'",
+        "createdOn": "2023-12-04T09:54:24.739Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-dea574df-ea9c-53fe-9b6b-5690d8e3c450",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Faq",
+        "message": "FAQ training successfully completed",
+        "createdOn": "2023-12-04T09:54:27.050Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-dfe889d0-a11d-536f-b9c5-facc69b66e4a",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "cs-c059641c-a8d2-5072-b0d4-09f639282f17",
+        "resourceType": "ClientApp",
+        "message": "New app Travel assistant is created ",
+        "createdOn": "2023-12-04T09:45:57.043Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-e9a4e6de-579d-53d1-8b8b-b419b2671dde",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "ThresholdAndConfigurations",
+        "message": "FM Threshold value is updated from 0% to undefined% for the 'English' language",
+        "createdOn": "2023-12-04T09:23:36.168Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-ee0bc0d1-796a-54c1-9e0a-e5a76cb32139",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "656d9a96a57a9b3672bb540e",
+        "resourceType": "KnowledgeTask",
+        "message": "Created KnowledgeTask Travel assistant",
+        "createdOn": "2023-12-04T09:23:34.461Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-ee84249d-c332-55e2-b793-5d0a9101b011",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "Sentence",
+        "message": "Training is initiated in 'ta'",
+        "createdOn": "2023-12-04T09:47:42.554Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-eed26202-a85d-5799-95ea-87062c1f2e32",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "frm-557a2efa-f42a-51f8-afb6-ef669d89b573",
+        "resourceType": "Form",
+        "message": "New Digital Form 'BookFlight' is created",
+        "createdOn": "2023-12-04T09:23:33.634Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-f0d6ecc3-d7e9-54b6-a9b7-d52cb2133582",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "wg-851be9e8-ab24-52eb-8d74-9996bd307306",
+        "resourceType": "customDashboards",
+        "message": "A new widget Raise issue dashboard is added to the Custom Dashboard Date wise response",
+        "createdOn": "2023-12-04T09:23:34.346Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-f10b5c1f-d9ab-5f22-adf2-b0d793f37c0a",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "app",
+        "message": "New API Scope Travel assistant is created and it is associated with Intent and Entity Detection,User Engagement Trend,Batch Tests Execution,Batch Tests Management,Chat History,Debug Logs,Bot Export,Import Variables,Export Variables,Proactive Messages,Train ML,Train Faq,Utterances Import,Utterances Export,Logs History,Bot Sessions,Billing Sessions,Custom Reports,RCS Message Events,Metrics,Manage Knowledge Graph,NLP Configurations,Update FAQs,Feedback Analytics,Language Management,Get linkedbot details,Conversation Summary,Conversation Tests Management,Conversation Tests Execution scopes",
+        "createdOn": "2023-12-04T15:12:52.382Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-f4066fe6-bb4d-58fb-9366-27434e6c5934",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceType": "stream",
+        "message": "New user Balaji  is invited to the bot with Bot Owner role",
+        "createdOn": "2023-12-04T09:23:32.947Z",
+        "__v": 0
+    },
+    {
+        "_id": "btl-f6d10019-3aee-5a2e-b695-8d0e0ffa76b2",
+        "userId": {
+            "id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "firstName": "Balaji",
+            "lastName": "",
+            "emailId": "codehub18@gmail.com",
+            "activationStatus": "active",
+            "profColour": "#ffa500",
+            "profImage": "no-avatar",
+            "_id": "u-91966578-95cc-5a1b-afe5-5891c239f8a2",
+            "orgId": "o-6f95de1d-25ba-55dd-aaae-3fb2bfb6e7f0"
+        },
+        "streamId": "st-d727622c-fdf0-52e0-90b2-1515cccbc547",
+        "resourceId": "dg-2a3e2fac-f5be-5f7d-a671-622e35555707",
+        "resourceType": "Dialog",
+        "message": "Created Dialog Feedback Survey NPS",
+        "createdOn": "2023-12-04T09:23:34.247Z",
+        "__v": 0
+    }
+]

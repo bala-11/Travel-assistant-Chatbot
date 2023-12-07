@@ -1,0 +1,1 @@
+{"query":{"dataSet":"book_cab_details","select":["name "," contact "," current_Location "," destination_Location "," cab ","travel_date"],"filterBy":{"condition":"and","rules":[]},"sortBy":null,"groupBy":null},"name":"book_cab_view","description":"To see the booked cab details"}

@@ -1,0 +1,1 @@
+{"query":{"dataSet":"booking_flight_details","select":["Name "," Phone_Number "," Email "," Boarding_City "," Destination_City "," Date_of_Travel"],"filterBy":{"condition":"and","rules":[]},"sortBy":null,"groupBy":null},"name":"book_flight_table","description":""}
